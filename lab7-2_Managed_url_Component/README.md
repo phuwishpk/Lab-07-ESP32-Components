@@ -19,7 +19,7 @@
 2. รันคำสั่ง `idf.py build` (จะดาวน์โหลด component จาก GitHub อัตโนมัติ)
 3. ทดสอบด้วย QEMU
 
-<
+```
 --- esp-idf-monitor 1.6.2 on socket://localhost:5555 115200
 --- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
 I (11309) SENSOR: 📊 Reading sensor data from file: /project/components/Sensors/sensor.c, line: 18
@@ -106,4 +106,7 @@ I (50309) SENSOR: 💧 Humidity: 60.0%
 I (50309) SENSOR: ✅ Sensor status check from file: /project/components/Sensors/sensor.c, line: 30
 I (50309) SENSOR: 📈 All sensors operating normally
 I (50309) LAB7-1: ----------------------------
->
+```
+<img width="1168" height="916" alt="Screenshot 2025-08-13 114356" src="https://github.com/user-attachments/assets/0db8abdd-7a46-438f-bda6-2f5710b11ec2" />
+
+
