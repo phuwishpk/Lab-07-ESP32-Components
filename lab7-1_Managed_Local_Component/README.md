@@ -6,7 +6,7 @@
 
 ## สรุปคำสั่งที่ใช้ และผลลัพธ์ที่ได้
 
-<Adding SPI flash device
+```Adding SPI flash device
 ets Jul 29 2019 12:21:46
 
 rst:0x1 (POWERON_RESET),boot:0x12 (SPI_FAST_FLASH_BOOT)
@@ -94,4 +94,5 @@ I (19922) SENSOR: 💧 Humidity: 69.3%
 I (19922) SENSOR: ✅ Sensor status check from file: /project/components/Sensors/sensor.c, line: 30
 I (19922) SENSOR: 📈 All sensors operating normally
 I (19922) LAB7-1: ----------------------------
->
+```
+<img width="1102" height="810" alt="Screenshot 2025-08-13 114156" src="https://github.com/user-attachments/assets/4d8b30ae-948f-46ac-b156-7b2b84831a47" />
