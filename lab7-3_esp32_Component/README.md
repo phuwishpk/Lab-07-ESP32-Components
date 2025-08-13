@@ -25,7 +25,7 @@ lab7-3_esp32_Component/
 │   └── lab7-3.c
 ├── build/
 └── README.md
-<
+```
 rst:0x1 (POWERON_RESET),boot:0x12 (SPI_FAST_FLASH_BOOT)
 configsip: 0, SPIWP:0xee
 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
@@ -176,4 +176,6 @@ I (25560) DISPLAY: ├───────────────────�
 I (25560) DISPLAY: │ Status: ✅ Comfortable         │
 I (25560) DISPLAY: └─────────────────────────────────┘
 I (25560) LAB7-3: ==========================================
->
+```
+![Uploading Screenshot 2025-08-13 133855.png…]()
+
